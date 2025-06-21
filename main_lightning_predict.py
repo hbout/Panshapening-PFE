@@ -109,7 +109,7 @@ if __name__ == "__main__":
     parser.add_argument("--img_scale", default=2047.0)
     parser.add_argument("--data_dir", default="./data/mat/wv3")
     parser.add_argument("--outdir", default="./out")
-    parser.add_argument("--method", default="fusionnet", choices=["apnn", "bdpn", "dicnn", "drpnn", "fusionnet", "msdcnn", "pannet", "pnn", "mambfuse"])
+    parser.add_argument("--method", default="mambfuse", choices=["apnn", "bdpn", "dicnn", "drpnn", "fusionnet", "msdcnn", "pannet", "pnn", "mambfuse"])
     parser.add_argument("--wandb_model", default=None)
     parser.add_argument("--ckpt", default=None)
     parser.add_argument("--data", default="fr", choices=["rr", "fr"])
