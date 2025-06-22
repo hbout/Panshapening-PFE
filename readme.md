@@ -1,4 +1,4 @@
-Farid Talbia, Fatiha Alima, Elhocine Boutellaab, Farid Melganic, Adel Segganed and Lamia Belachar
+Farid Talbi, Fatiha Alim, Elhocine Boutellaa, Farid Melgani, Adel Seggane and Lamia Belachar
 # MambaFuse: a Novel Framework for Pansharpening
 Submitted to : International Journal of Remote Sensing, Taylor & Fransis
 
